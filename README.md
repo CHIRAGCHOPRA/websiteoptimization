@@ -49,5 +49,23 @@ The portfolio was built on Twitter's <a href="http://getbootstrap.com/">Bootstra
 
 * <a href="http://getbootstrap.com/css/">Bootstrap's CSS Classes</a>
 * <a href="http://getbootstrap.com/components/">Bootstrap's Components</a>
+#steps to optimize the web site
+#### Step 1: Optimize `index.html`
+
+* Optimized Images
+* Minified JavaScript
+* Minified CSS
+* Inline CSS styling
+
+
+#### Step 2: Optimize `pizza.html`
+
+* Optimized Images
+* Recorded timeline.
+* Saw a red triangle on Layout indicated Forced Synched Layout in Main.js
+* Made changes in UpdatePosition() and changePizza Sizes().
+* Minified all the HTML ,CSS and JavaScript files.
+
+* New Change
 good luck!!!!!!!!!!!!!!!!!!!
 --copyright@chiragchopra
