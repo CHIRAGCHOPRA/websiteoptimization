@@ -67,5 +67,10 @@ The portfolio was built on Twitter's <a href="http://getbootstrap.com/">Bootstra
 * Minified all the HTML ,CSS and JavaScript files.
 
 * New Change
+Some useful tips to help you get started:
+1> open index.html
+2>check chrome developer tools and check fps.
+3>the same goes with pizza.html
+
 good luck!!!!!!!!!!!!!!!!!!!
 --copyright@chiragchopra
